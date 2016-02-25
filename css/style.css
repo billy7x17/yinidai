@@ -60,8 +60,8 @@ label{
 }
 .search-box{
   float: right;
-  width: 33%;
-   margin-top: 1em;
+  /*width: 33%;
+   margin-top: 1em;*/
 }
 .b-search{
 	position: relative;
